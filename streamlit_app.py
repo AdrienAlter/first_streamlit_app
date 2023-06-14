@@ -1,2 +1,2 @@
 import streamlit
-stremalit.title('Code Check');
+streamlit.title('Code Check');
