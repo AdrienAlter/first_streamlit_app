@@ -1,2 +1,2 @@
-import sreamlit
+import streamlit
 stremalit.title('Code Check');
